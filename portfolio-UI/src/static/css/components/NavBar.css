@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 96px;
+    font-size: 13px;
+    font-weight: 400;
+    border-bottom: 1px solid var(--border);
+}
+
+.logo-section{
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text-pri);
+}
+
+.nav-section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-section a{
+    padding: 0px 15px;
+    color: var(--text-sec);
+    text-decoration: none;
+}
+
+.nav-section a:hover{
+    color: var(--text-pri);
+    cursor: pointer;
+}
