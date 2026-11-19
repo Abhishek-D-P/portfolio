@@ -16,9 +16,9 @@
 
   --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
   --heading: "Inter", sans-serif;
-  --mono: "Roboto Mono" ui-monospace, Consolas, monospace;
+  --mono: "Roboto Mono", ui-monospace, Consolas, monospace;
 
-  font: 18px/145% var(--heading);
+  font-family: var(--heading);
   letter-spacing: 0.18px;
   color-scheme: light dark;
   color: var(--text-sec);
