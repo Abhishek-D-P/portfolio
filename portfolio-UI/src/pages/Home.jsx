@@ -8,7 +8,7 @@ function Home(){
     return (
         <>
             <NavBar></NavBar>
-            <div className="home-content">
+            <section className="home-content" id="home">
                 <div className="home-left-section">
                     <Text type = 'caption' content = 'SENIOR SOFTWARE CONSULTANT' fontSize='11px'></Text>
                     <Text type = 'heading' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. At non laboriosam placeat odio rerum, ' fontSize='50px'></Text>
@@ -28,7 +28,7 @@ function Home(){
                         <a href="https://github.com/Abhishek-D-P" target="_blank"><img src="src/assets/github-svgrepo-com.svg    " alt="" /></a>
                     </div>
                 </div>
-            </div>
+            </section>
 
         </>
     )
