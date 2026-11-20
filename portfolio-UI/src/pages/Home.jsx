@@ -1,17 +1,21 @@
 import NavBar from "../components/NavBar"
+import Text from "../components/Text"
+import Button from "../components/Button"
+
+
 import '../static/css/pages/Home.css'
 function Home(){
     return (
         <>
             <NavBar></NavBar>
-            <div className="home-content">
+            <section className="home-content" id="home">
                 <div className="home-left-section">
-                    <div className="designation"><p>SENIOR SOFTWARE CONSULTANT</p></div>
-                    <div className="quote">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </div>
-                    <div className="summary"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At non laboriosam placeat odio rerum, tempora esse numquam quia earum? Earum quam error eius omnis placeat nulla, suscipit debitis praesentium quae!</p></div>
+                    <Text type = 'caption' content = 'SENIOR SOFTWARE CONSULTANT' fontSize='11px'></Text>
+                    <Text type = 'heading' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. At non laboriosam placeat odio rerum, ' fontSize='50px'></Text>
+                    <Text type = 'paragraph' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa.' fontSize='17px'></Text>
                     <div className="actions">
-                        <button className="primary-btn btn">Explore My Work <span>➡️</span></button>
-                        <button className="secondary-btn btn">Let's Connect <span>➡️</span></button>
+                        <Button type = 'primary-btn' value = 'Explore My Work ➡️'></Button>
+                        <Button type = 'secondary-btn' value = "Let's connect ➡️"></Button>
                     </div>
                 </div>
                 <div className="home-right-section">
@@ -24,7 +28,7 @@ function Home(){
                         <a href="https://github.com/Abhishek-D-P" target="_blank"><img src="src/assets/github-svgrepo-com.svg    " alt="" /></a>
                     </div>
                 </div>
-            </div>
+            </section>
 
         </>
     )

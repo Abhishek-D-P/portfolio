@@ -5,8 +5,8 @@ function NavBar(){
             <div className="navbar">
                 <div className="logo-section">Abhishek D Pattanshetti</div>
                 <div className="nav-section">
-                    <a href="">Home</a>
-                    <a href="">About</a>
+                    <a href="#home">Home</a>
+                    <a href="#about">About</a>
                     <a href="">Experience</a>
                     <a href="">Projects</a>
                     <a href="">Contact</a>

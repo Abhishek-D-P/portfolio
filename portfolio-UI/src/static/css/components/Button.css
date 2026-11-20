@@ -1,0 +1,19 @@
+.primary-btn{
+    font-size: 14px;
+    padding: 14px 20px;
+    background-color: var(--accent);
+    color: var(--text-pri);
+    border-radius: 5px;
+    border: none;
+}
+
+.secondary-btn{
+    font-size: 14px;
+    padding: 14px 20px;
+    background: transparent;
+    color: var(--text-pri);
+    border-radius: 5px;
+
+    border: 1px solid var(--border);
+    margin-left: 12px;
+}
