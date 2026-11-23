@@ -1,0 +1,10 @@
+.experience{
+    padding: 88px 96px;
+}
+
+.experienceCard{
+    padding: 36px 36px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-top: 25px;
+}

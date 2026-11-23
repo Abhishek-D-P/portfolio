@@ -1,27 +1,24 @@
+div{
+    margin: 15px 0;
+}
+
 .heading{
     font-family: var(--heading);
     color: var(--text-pri);
     letter-spacing: -4%;
-}
-
-.subheading {
-    font-family: var(--heading);
-    color: var(--text-pri);
-    letter-spacing: -4%;
-    margin: 15px 0;
     line-height: 155%;
 }
+
 
 .paragraph{
     font-family: var(--heading);
     color: var(--text);
     letter-spacing: -4%;
-    margin: 15px 0;
     line-height: 165%;
+    margin: 0;
 }
 
 .caption{
     font-family: var(--mono);
     color: var(--accent);
-    margin: 7px 0;
 }

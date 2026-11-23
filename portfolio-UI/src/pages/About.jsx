@@ -14,7 +14,7 @@ function About(){
                     
                 </div>
                 <div className="about-right-section">
-                    <Text type = 'subheading' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa.' fontSize='25px'></Text>
+                    <Text type = 'heading' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa.' fontSize='25px'></Text>
                     <Text type = 'paragraph' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa.' fontSize='17px'></Text>  
                     <Interest value = 'Backend'></Interest>
                     <Interest value = 'AI'></Interest>

@@ -7,9 +7,9 @@ function NavBar(){
                 <div className="nav-section">
                     <a href="#home">Home</a>
                     <a href="#about">About</a>
-                    <a href="">Experience</a>
-                    <a href="">Projects</a>
-                    <a href="">Contact</a>
+                    <a href="#experience">Experience</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
                 </div>
             </div>
         </>

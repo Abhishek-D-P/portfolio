@@ -3,7 +3,7 @@
 }
 
 .home-content{
-    padding: 96px 104px 52px 96px;
+    padding: 25px 104px 52px 96px;
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
@@ -26,7 +26,7 @@
     justify-content: space-between;
     font-size: 10px;
     font-family: var(--mono);
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 .socials img{
