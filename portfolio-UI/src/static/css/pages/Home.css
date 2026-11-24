@@ -35,3 +35,17 @@
     filter: brightness(100);
     margin: 0 5px;
 }
+
+.home-right-section{
+    padding: 96px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.home-right-section img{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+}
