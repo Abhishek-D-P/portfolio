@@ -2,7 +2,6 @@ import NavBar from "../components/NavBar"
 import Text from "../components/Text"
 import Button from "../components/Button"
 
-
 import '../static/css/pages/Home.css'
 function Home(){
     return (
