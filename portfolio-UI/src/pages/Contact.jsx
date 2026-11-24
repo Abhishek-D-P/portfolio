@@ -11,9 +11,9 @@ function Contact(){
                     <Text type="heading" content="Lorem ipsum dolor sit amet consectetur" fontSize="62px"></Text>
                     <Text type="paragraph" content="Lorem ipsum dolor sit amet consectetur" fontSize="17px"></Text>
                     <div className="connections">
-                        <Button type="primary-btn" value="Email Me ↗"></Button>
-                        <Button type="secondary-btn" value="LinkedIn Me ↗"></Button>
-                        <Button type="secondary-btn" value="GitHub Me ↗"></Button>
+                        <Button type="primary-btn" value="Email Me ↗" link=""></Button>
+                        <Button type="secondary-btn" value="LinkedIn ↗" link="https://www.linkedin.com/abhishek-pattanshetti" target="_blank"></Button>
+                        <Button type="secondary-btn" value="GitHub ↗" link="https://github.com/Abhishek-D-P" target="_blank"></Button>
                     </div>
                 </div>
             </section>

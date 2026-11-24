@@ -13,8 +13,8 @@ function Home(){
                     <Text type = 'heading' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. At non laboriosam placeat odio rerum, ' fontSize='50px'></Text>
                     <Text type = 'paragraph' content = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, culpa.' fontSize='17px'></Text>
                     <div className="actions">
-                        <Button type = 'primary-btn' value = 'Explore My Work ➡️'></Button>
-                        <Button type = 'secondary-btn' value = "Let's connect ➡️"></Button>
+                        <Button type = 'primary-btn' value = 'Explore My Work 🛄' link="#experience"></Button>
+                        <Button type = 'secondary-btn' value = "Let's connect 📞" link="#contact"></Button>
                     </div>
                 </div>
                 <div className="home-right-section">

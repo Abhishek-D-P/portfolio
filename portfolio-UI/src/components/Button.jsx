@@ -1,9 +1,9 @@
 import '../static/css/components/Button.css'
 
-function Button({type,value}){
+function Button({type,value,link,target}){
 
     return (
-        <button className={type}>{value}</button>
+        <a href={link} className={type} target={target}>{value}</a>
     )
 }
 

@@ -5,6 +5,8 @@
     color: var(--text-pri);
     border-radius: 5px;
     border: none;
+    margin-top: 15px;
+    text-decoration: none;
 }
 
 .secondary-btn{
@@ -13,7 +15,13 @@
     background: transparent;
     color: var(--text-pri);
     border-radius: 5px;
-
     border: 1px solid var(--border);
     margin-left: 12px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.primary-btn,
+.secondary-btn {
+    display: inline-block;
 }
