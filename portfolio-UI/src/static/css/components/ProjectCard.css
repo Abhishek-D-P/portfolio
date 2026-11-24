@@ -1,0 +1,15 @@
+.projectCard{
+    padding: 28px;
+    background-color: #11141C;
+    border-radius: 10px;
+}
+
+.skills{
+    display: flex;
+    column-gap: 5px;
+}
+
+.projectLink{
+    font-size: 12px;
+    text-decoration: none;
+}

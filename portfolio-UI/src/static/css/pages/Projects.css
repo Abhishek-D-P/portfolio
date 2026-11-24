@@ -1,0 +1,9 @@
+.project-page{
+    padding: 88px 96px;
+}
+
+.projects{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+}
