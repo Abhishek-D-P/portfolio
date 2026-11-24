@@ -18,13 +18,14 @@ function Home(){
                     </div>
                 </div>
                 <div className="home-right-section">
-                    
+                    <img src="/src/assets/31671346.jpg" alt="" />
                 </div>
                 <div className="footer">
                     <div className="skills">PYTHON / AUTOMATION / AI ENGINEERING</div>
                     <div className="socials"> 
                         <a href="https://www.linkedin.com/abhishek-pattanshetti" target="_blank"><img src="src/assets/linkedin-svgrepo-com.svg    " alt="" /></a>
                         <a href="https://github.com/Abhishek-D-P" target="_blank"><img src="src/assets/github-svgrepo-com.svg    " alt="" /></a>
+                        
                     </div>
                 </div>
             </section>
