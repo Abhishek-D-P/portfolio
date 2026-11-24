@@ -1,0 +1,10 @@
+.contact-page{
+    padding: 96px 24px 88px 96px;
+}
+
+.contact-card{
+    background-color: #16121F;
+    padding: 48px 64px;
+    border: 1px solid #3B2C50;
+    border-radius: 12px;
+}
