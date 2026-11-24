@@ -22,10 +22,10 @@ function ExperienceCard(){
                 </div>
                 <div className="responsiblity-section">
                     <p> Responsiblities and Contribtuion</p>
-                    <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
-                    <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
-                    <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
-                    <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
+                        <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
+                        <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
+                        <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
+                        <ResponsiblityRow no="01" title="Software Bundle Automation" content = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem quisquam aperiam, sint at doloribus molestiae. Vero placeat culpa ducimus iure."></ResponsiblityRow>
                 </div>
             </div>
         </>
